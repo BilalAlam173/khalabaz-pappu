@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{475A2F6C-DE8C-D9C7-55E4-0EF4FE321A3A}</ProjectGuid>
+    <ProjectGuid>{33358F7F-FC29-D577-2F83-87A241E4888A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\jet\scripts\player.cs" />
+     <Compile Include="Assets\jet\scripts\playerController.cs" />
      <Compile Include="Assets\TileMapEditor\Scripts\TileBrush.cs" />
      <Compile Include="Assets\TileMapEditor\Scripts\TileMap.cs" />
  <Reference Include="UnityEngine.UI">
